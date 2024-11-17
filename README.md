@@ -1,3 +1,3 @@
-[![Metrics](/github-metrics.svg)](https://github.com/SirLynix)
+[![Metrics](/github-metrics.svg)](https://github.com/dannyHallo)
 
-![Profile views](https://komarev.com/ghpvc/?username=SirLynix&style=plastic)
+![Profile views](https://komarev.com/ghpvc/?username=dannyHallo&style=plastic)
